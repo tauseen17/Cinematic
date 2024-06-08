@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 export const Footer = () => {
   return (
     <footer className="bg-white dark:bg-gray-800">
@@ -14,7 +12,7 @@ export const Footer = () => {
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
           <li>
             <a
-              href="#"
+              href="https://github.com/tauseen17"
               className="hover:underline me-4 md:me-6"
               rel="noreferrer"
             >
@@ -23,7 +21,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://github.com/tauseen17"
               className="hover:underline me-4 md:me-6"
               rel="noreferrer"
             >
@@ -32,7 +30,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://github.com/tauseen17"
               className="hover:underline me-4 md:me-6"
               rel="noreferrer"
             >
@@ -40,7 +38,11 @@ export const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="#" className="hover:underline" rel="noreferrer">
+            <a
+              href="https://github.com/tauseen17"
+              className="hover:underline"
+              rel="noreferrer"
+            >
               Contact
             </a>
           </li>
